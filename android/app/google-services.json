@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994474535907",
+    "project_id": "flash-chat-21-65133",
+    "storage_bucket": "flash-chat-21-65133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994474535907:android:aa70f3188c0a1f2ffc0ed6",
+        "android_client_info": {
+          "package_name": "co.TinuFlashChat.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994474535907-5nhuifteooqllvdssdiqvdggcv8ve4m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dnaVbClfun1zpwi2n-zKnOL9S8atZ8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994474535907-5nhuifteooqllvdssdiqvdggcv8ve4m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
